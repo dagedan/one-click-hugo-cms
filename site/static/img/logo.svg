@@ -4,7 +4,6 @@
 
 	<g>
 		<title>background</title>
-		<rect x="-1" y="-1" width="19.30769" height="8.15385" id="canvas_background" fill="#fff"/>
 		<g id="canvasGrid" display="none">
 			<rect id="svg_1" width="100%" height="100%" x="0" y="0" stroke-width="0" fill="url(#gridpattern)"/>
 		</g>
